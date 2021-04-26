@@ -26,15 +26,15 @@
       }
 
       var htmlVersions = [
-        ['ep3', "Platformer Game Tutorial P3 - Smooth Character Movement"],
-        ['ep4', "Platformer Game Tutorial P4 - Moving Between Levels"],
-        ['ep5', "Platformer Game Tutorial P5 - Autotiles"],
-        ['ep6', "Platformer Game Tutorial P6 - Parallax Background"],
         ['ep7', "Platformer Game Tutorial P7 - Menu UI and Signals"],
+        ['ep6', "Platformer Game Tutorial P6 - Parallax Background"],
+        ['ep5', "Platformer Game Tutorial P5 - Autotiles"],
+        ['ep4', "Platformer Game Tutorial P4 - Moving Between Levels"],
+        ['ep3', "Platformer Game Tutorial P3 - Smooth Character Movement"],
       ]
       var htmlVersionsObj = objectify(htmlVersions)
 
-      initialEpisode = htmlVersions[htmlVersions.length - 1][0]
+      initialEpisode = htmlVersions[0][0]
 
       rootElem = document.querySelector('.root')
       titleElem = document.querySelector('.title')
