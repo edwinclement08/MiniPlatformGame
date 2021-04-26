@@ -10,7 +10,7 @@ In P7, the Up button is change for Space.
 # Working Link to the result.
 Open https://edwinclement08.github.io/MiniPlatformGame/ for seeing all the versions of the Game.
 
-For Local executables(like .exe), Open [Releases Page](https://github.com/edwinclement08/MiniPlatformGame/releases/tag/1.0.1)
+For Local executables(like .exe), Open [Releases Page](https://github.com/edwinclement08/MiniPlatformGame/releases/)
 
 # Code for each Version of Game
 - [Platformer Game Tutorial P3 - Smooth Character Movement](https://github.com/edwinclement08/MiniPlatformGame/tree/6750f8985cffc4e30f1dc17db8eb4539f1417a69) 
